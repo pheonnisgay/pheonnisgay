@@ -1,7 +1,6 @@
 - 👋 Hi, I’m YeatIsBetter114
 - 👀 I’m interested in Coding  
-- 🌱 I’m currently learning Minecraft plugin coding
-- You can reach me thourgh Discord: me_is_rennen 
+- You can reach me thourgh Discord: cooltechno
 
 <!---
 pheonnisgay/pheonnisgay is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
